@@ -33,7 +33,7 @@ const SessionRouter = () => {
               CoronaSafe Network is an open-source public utility designed by a
               multi-disciplinary team of innovators and volunteers who are
               working on a model to support Government efforts with full
-              understanding and support of Government of Kerala.
+              understanding and support of Government of Karnataka.
             </a>
             <div className="mx-auto">
               <a
