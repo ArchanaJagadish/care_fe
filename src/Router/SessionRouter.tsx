@@ -24,7 +24,7 @@ const SessionRouter = () => {
           <div className="mx-auto p-2">
             <img
               className="h-20"
-              src="https://care-coronasafe.s3.amazonaws.com/static/images/logos/ksdma_logo.png"
+              src="https://github.com/ArchanaJagadish/care/raw/master/care/static/images/logos/ksdma_logo.png"
               alt="Care Logo"
             />
           </div>
